@@ -2,7 +2,7 @@
 
 > 高韧性、可中断、流式与工具调用双模态解耦的单智能体（Single-Agent）核心执行循环引擎。
 
-[![CI](https://github.com/civilization-os/agent_loop/actions/workflows/ci.yml/badge.svg)](https://github.com/civilization-os/agent_loop/actions)
+[![CI](https://github.com/civilization-os/agent-loop/actions/workflows/ci.yml/badge.svg)](https://github.com/civilization-os/agent-loop/actions)
 [![npm version](https://img.shields.io/npm/v/@civilization/agent-loop.svg)](https://www.npmjs.com/package/@civilization/agent-loop)
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 

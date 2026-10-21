@@ -4,6 +4,10 @@
   "description": "High-resilience single-agent execution loop with self-correction, dual-modal streaming, suspend/resume, and zero-race cancellation",
   "author": "Civilization OS Team",
   "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/civilization-os/agent-loop.git"
+  },
   "type": "module",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
